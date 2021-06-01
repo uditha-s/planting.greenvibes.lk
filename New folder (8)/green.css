@@ -1,0 +1,247 @@
+body {
+	background-color:#E5F9E1 ;
+}
+div{
+	width:100%;
+	height:100px;
+	background-color:no-color ;
+	border-bottom:10px;
+	border-color: #92a8d1;
+	
+	
+}
+
+.home{
+	width:75%;
+	height:100px;
+	background-image: url("oooo.png");
+	overflow:hidden;
+    padding-right:100px;
+	margin-top:-100px;
+	background-repeat:no-repeat;
+	margin-left:455px;
+}
+.name{
+	width:500px;
+	height:75px;
+	background-color:white;
+	font-size:40px;
+	font-family:Franklin Gothic Heavy;
+	padding-top:25px;
+	padding-left:10px;
+	margin-top:-70px;
+
+}
+.img{
+	height:70px;
+	width:300px;
+	background-image: url("IMG_20210513_224515.jpg");
+	overflow:hidden;
+	background-color:white;
+	background-repeat:no-repeat;
+	  background-size: 250px 70px;
+	margin-left:100px;
+	margin-top:-90px;
+}
+.web{
+	height:70px;
+	width:100px;
+	background-color:none;
+	margin-left:80%;
+	font-size:30px;
+	text-align:center;
+	
+	
+}
+.cimg{
+	width:100%;
+	height:640px;
+
+	overflow:hidden;
+	background-image: url("IMG_20200704_141727.jpg");
+	background-repeat:no-repeat;
+	  background-size:cover;
+}
+.mid{
+	width:600px;
+	height:100px;
+	background-color:black;opacity:0.4;;
+	font-family:"Audiowide", sans-serif;
+	color:white;
+	text-align:center;
+	padding-top:50px;
+	font-size:50px;
+	margin-left:28%;
+	margin-top:400px;
+	border-bottom:10px;
+	border-color:red;
+	
+	
+}
+.new{
+	height:300px;
+	width:100%;
+	background-color:white;
+	
+}
+.join{
+	width:300px;
+	height:300px;
+	background-color:white;
+}
+.one{
+	height:50px;
+	width:300px;
+	background-color:#a7fcab;
+	overflow:hidden;
+	text-align:center;
+	padding-top:15px;
+	font-size:30px;
+	margin-bottom:10px;
+
+}
+.two{
+	height:50px;
+	width:300px;
+	background-color:#7cf781;
+	overflow:hidden;
+	font-size:30px;
+	text-align:center;
+	padding-top:15px;
+	margin-bottom:10px;
+	
+}
+.three{
+	height:50px;
+	width:300px;
+	background-color:#5cf762;
+	overflow:hidden;
+	font-size:30px;
+	text-align:center;
+	padding-top:15px;
+	margin-bottom:10px;
+	
+}
+.about{
+	height:50px;
+	width:300px;
+	background-color:#3df244;
+	overflow:hidden;
+	font-size:30px;
+	text-align:center;
+	padding-top:15px;
+	margin-bottom:10px;
+	
+}
+.news{
+	width:300px;
+	height:300px;
+	background-color:white;
+	overflow:hidden;
+	margin-left:300px;
+	margin-top:-300px;
+	background-image: url("pngtree-international-day-of-forest-vector-design-for-celebrate-moment-png-image_5327785.jpg");
+	background-repeat:no-repeat;
+	  background-size:cover;
+}
+.nea{
+	width:300px;
+	height:300px;
+	background-color:red;
+	overflow:hidden;
+	font-size:10px;
+	text-align:center;
+    
+	
+	
+}
+.neb{
+	width:300px;
+	height:300px;
+	background-color:#bfc961;
+	overflow:hidden;
+	margin-left:300px;
+	
+
+}
+.nec{
+	width:300px;
+	height:300px;
+	background-color:#91dadb;
+	overflow:hidden;
+
+	margin-top:-300px;
+	 
+}
+.ned{
+	width:300px;
+	height:300px;
+	background-color:#91dadb;
+	overflow:hidden;
+	margin-left:300px;
+	margin-top:-600px;
+
+	
+}
+.let{
+	width:600px;
+	height:400px;
+	overflow:hidden;
+	background-color:yellow;
+	margin-left:600px;
+	margin-top:-200px;
+	margin-left:770px;
+	border:3px solid black;
+}
+.pp{
+	width:200px;
+	height:40px;
+	background-color:yellow;
+	overflow:hidden;
+	font-size:30px;
+	text-align:center;
+	margin-left:950px;
+	margin-top:-450px;
+	}
+.wh{
+	width:100%;
+	height:400px;
+	overflow:hidden;
+	background-color:green;
+	margin-top:520px;
+}	
+	.wa{
+	width:100%;
+	height:400px;
+	overflow:hidden;
+	background-color:green;
+	margin-top:20px;
+}	
+	.wb{
+	width:100%;
+	height:400px;
+	overflow:hidden;
+	background-color:green;
+	margin-top:20px;
+}
+	.wc{
+	width:100%;
+	height:400px;
+	overflow:hidden;
+	background-color:green;
+	margin-top:20px;
+}
+.wd{
+	width:100%;
+	height:400px;
+	overflow:hidden;
+	background-color:green;
+	margin-top:20px;
+}
+.down{
+	width:100%;
+	height:200px;
+	overflow:hidden;
+	background-color:blue;
+	margin-top:20px;
+}
