@@ -154,6 +154,7 @@ background-image:url("cover2.png");
 
 	font-family:Arial Rounded MT Bold;
 	border:1px solid green;
+	border-radius: 15px 50px;
 	
 }
 .frame{
