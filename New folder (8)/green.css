@@ -174,17 +174,55 @@ background-image:url("cover2.png");
 }	
 	.wa{
 	width:100%;
-	height:400px;
+	height:300px;
 	overflow:hidden;
-	background-color:green;
+	background-color:#ccffcc;
 	margin-top:20px;
-}	
+}
+.why{
+	width:300px;
+	height:300px;
+	background-image:url("plant_a_tree1.jpg") ;
+	background-repeat:no-repeat;
+	 background-size:cover;
+	 font-size:40px;
+	 text-align:center;
+	 
+	
+	 
+	
+}
+.what{
+	width:300px;
+	height:300px;
+	background-image:url("lee1.jpg") ;
+	background-repeat:no-repeat;
+	 background-size:cover;
+	 font-size:50px;
+	 text-align:center;
+	margin-left:50%;
+	margin-top:-300px;
+}
+
+	
 	.wb{
 	width:100%;
 	height:400px;
 	overflow:hidden;
-	background-color:green;
+	background-color:#ccffe6;
 	margin-top:20px;
+}
+.life{
+	text-align:center;
+	font-size:40px;
+	
+	
+	
+}
+.sus{
+	
+	text-align:center;
+	font-size:10px;
 }
 	.wc{
 	width:100%;
@@ -206,4 +244,7 @@ background-image:url("cover2.png");
 	overflow:hidden;
 	background-color:blue;
 	margin-top:20px;
+}
+.font{
+	font-size:50px;
 }
