@@ -366,4 +366,6 @@ border-radius: 10px;
 	height:200px;
 	overflow:hidden;
 	background-color:black;
+	background-image:url("fott.png");
+background-size:cover;
 }
