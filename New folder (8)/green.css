@@ -177,7 +177,7 @@ background-image:url("cover2.png");
 	background-color:green;
 	margin-top:520px;
 }	
-	.wg{
+	.wp{
 	width:100%;
 	height:300px;
 	overflow:hidden;
@@ -367,7 +367,7 @@ border-radius: 10px;
 	 
 	 
 	 margin-left:65%;
-	 margin-top:-250px;
+	 margin-top:-240px;
 	
  }
  .wa{
@@ -458,28 +458,28 @@ background-size:cover;
 }
 
 .button1 {
-  background-color: white; 
-  color: black; 
+  background-color:#212820; 
+  color: white; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 8px #99ff99;
 }
 
 .button2 {
-  background-color: white; 
-  color: black; 
+  background-color:#212820; 
+  color: white; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 4px #99ff99;
 }
 
 .button3 {
-  background-color: white; 
-  color: black; 
+  background-color: #212820; 
+  color: white; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 4px #99ff99;
 }
 
 .button4 {
-  background-color: white;
+  background-color: #212820;
   color: black;
   border: 2px solid #e7e7e7;
 }
@@ -497,5 +497,201 @@ background-size:cover;
 	margin-top:150px;
 	
 }
- 
- 
+.greenlogo{
+	width:400px;
+	height:150px;
+	background-color:;
+	margin-top:-90px;
+	margin-left:10%;
+	background-image:url("name.png");
+	background-size:cover;
+}
+.picc{
+	width:100%;
+	height:300px;
+	overflow:hidden;
+	background-color:;
+	margin-top:00px;
+	
+}
+.card{
+	width:300px;
+	height:300px;
+	background-color:yellow;
+	box-shadow: 10px 10px 5px #aaaaaa;
+	margin-top:-300px;
+	margin-left:79%;
+	
+	
+
+}
+.coni{
+	width:300px;
+	height:200px;
+	background-color:white;
+	background-image:url("kub.jpg");
+	background-size:cover;
+}
+.doimg{
+	width:300px;
+	height:100px;
+	background-color:white;
+	margin-top:0px;
+	overflow:hidden;
+}
+.card2{
+	width:300px;
+	height:300px;
+	background-color:yellow;
+	box-shadow: 10px 10px 5px #aaaaaa;
+	margin-top:-300px;
+	margin-left:55%;
+	
+	
+
+}
+.coni{
+	width:300px;
+	height:200px;
+	background-color:white;
+	background-image:url("kub.jpg");
+	background-size:cover;
+}
+.doimg{
+	width:300px;
+	height:100px;
+	background-color:white;
+	margin-top:0px;
+	overflow:hidden;
+}
+.card2{
+	width:300px;
+	height:300px;
+	background-color:yellow;
+	box-shadow: 10px 10px 5px #aaaaaa;
+	margin-top:-300px;
+	margin-left:55%;
+	
+}
+.coni2{
+	width:300px;
+	height:200px;
+	background-color:white;
+	background-image:url("sad.jpg");
+	background-size:cover;
+}
+.doimg{
+	width:300px;
+	height:100px;
+	background-color:white;
+	margin-top:0px;
+	overflow:hidden;
+}
+.card3{
+	width:300px;
+	height:300px;
+	background-color:yellow;
+	box-shadow: 10px 10px 5px #aaaaaa;
+	margin-top:-300px;
+	margin-left:30%;
+	
+	
+
+}
+.coni3{
+	width:300px;
+	height:200px;
+	background-color:white;
+	background-image:url("tetss.jpg");
+	background-size:cover;
+}
+.doimg{
+	width:300px;
+	height:100px;
+	background-color:white;
+	margin-top:0px;
+	overflow:hidden;
+}
+
+
+.sugest{
+	
+	width:660px;
+	height:440px;
+	background-color:yellow;
+	margin-left:55%;
+	margin-top:30px;
+	
+	
+	
+}
+.cot1{
+	width:200px;
+	height:200px;
+	background-color:gray;
+	overflow:hidden;
+
+
+	border-style: solid;
+  border-width: 10px;
+	
+}
+.cot2{
+	width:200px;
+	height:200px;
+	background-color:red;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+  margin-left:220px;
+  margin-top:-220px;
+	
+}
+.cot3{
+	width:200px;
+	height:200px;
+	background-color:gray;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+  margin-left:440px;
+  margin-top:-220px;
+	
+}
+.cot4{
+	width:200px;
+	height:200px;
+	background-color:red;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+
+  margin-top:0px;
+	
+}
+.cot5{
+	width:200px;
+	height:200px;
+	background-color:red;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+margin-left:220px;
+  margin-top:-220px;
+  
+	
+}
+.cot6{
+	width:200px;
+	height:200px;
+	background-color:red;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+margin-left:440px;
+  margin-top:-220px;
+  
+	
+}
+
+
