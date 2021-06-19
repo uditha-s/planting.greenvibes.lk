@@ -177,7 +177,7 @@ background-image:url("cover2.png");
 	background-color:green;
 	margin-top:520px;
 }	
-	.wg{
+	.wp{
 	width:100%;
 	height:300px;
 	overflow:hidden;
@@ -367,7 +367,7 @@ border-radius: 10px;
 	 
 	 
 	 margin-left:65%;
-	 margin-top:-250px;
+	 margin-top:-240px;
 	
  }
  .wa{
@@ -497,5 +497,13 @@ background-size:cover;
 	margin-top:150px;
 	
 }
- 
+.greenlogo{
+	width:400px;
+	height:150px;
+	background-color:;
+	margin-top:-90px;
+	margin-left:10%;
+	background-image:url("name.png");
+	background-size:cover;
+}
  
