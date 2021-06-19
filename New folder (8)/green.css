@@ -177,7 +177,7 @@ background-image:url("cover2.png");
 	background-color:green;
 	margin-top:520px;
 }	
-	.wp{
+	.wg{
 	width:100%;
 	height:300px;
 	overflow:hidden;
@@ -367,7 +367,7 @@ border-radius: 10px;
 	 
 	 
 	 margin-left:65%;
-	 margin-top:-240px;
+	 margin-top:-250px;
 	
  }
  .wa{
@@ -458,28 +458,28 @@ background-size:cover;
 }
 
 .button1 {
-  background-color:#212820; 
-  color: white; 
+  background-color: white; 
+  color: black; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 8px #99ff99;
 }
 
 .button2 {
-  background-color:#212820; 
-  color: white; 
+  background-color: white; 
+  color: black; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 4px #99ff99;
 }
 
 .button3 {
-  background-color: #212820; 
-  color: white; 
+  background-color: white; 
+  color: black; 
   border: 2px solid #e0e0d1;
   text-shadow: 2px 2px 4px #99ff99;
 }
 
 .button4 {
-  background-color: #212820;
+  background-color: white;
   color: black;
   border: 2px solid #e7e7e7;
 }
@@ -497,119 +497,5 @@ background-size:cover;
 	margin-top:150px;
 	
 }
-.greenlogo{
-	width:400px;
-	height:150px;
-	background-color:;
-	margin-top:-90px;
-	margin-left:10%;
-	background-image:url("name.png");
-	background-size:cover;
-}
-.picc{
-	width:100%;
-	height:300px;
-	overflow:hidden;
-	background-color:;
-	margin-top:00px;
-	
-}
-.card{
-	width:300px;
-	height:300px;
-	background-color:yellow;
-	box-shadow: 10px 10px 5px #aaaaaa;
-	margin-top:-300px;
-	margin-left:79%;
-	
-	
-
-}
-.coni{
-	width:300px;
-	height:200px;
-	background-color:white;
-	background-image:url("kub.jpg");
-	background-size:cover;
-}
-.doimg{
-	width:300px;
-	height:100px;
-	background-color:white;
-	margin-top:0px;
-	overflow:hidden;
-}
-.card2{
-	width:300px;
-	height:300px;
-	background-color:yellow;
-	box-shadow: 10px 10px 5px #aaaaaa;
-	margin-top:-300px;
-	margin-left:55%;
-	
-	
-
-}
-.coni{
-	width:300px;
-	height:200px;
-	background-color:white;
-	background-image:url("kub.jpg");
-	background-size:cover;
-}
-.doimg{
-	width:300px;
-	height:100px;
-	background-color:white;
-	margin-top:0px;
-	overflow:hidden;
-}
-.card2{
-	width:300px;
-	height:300px;
-	background-color:yellow;
-	box-shadow: 10px 10px 5px #aaaaaa;
-	margin-top:-300px;
-	margin-left:55%;
-	
-}
-.coni2{
-	width:300px;
-	height:200px;
-	background-color:white;
-	background-image:url("sad.jpg");
-	background-size:cover;
-}
-.doimg{
-	width:300px;
-	height:100px;
-	background-color:white;
-	margin-top:0px;
-	overflow:hidden;
-}
-.card3{
-	width:300px;
-	height:300px;
-	background-color:yellow;
-	box-shadow: 10px 10px 5px #aaaaaa;
-	margin-top:-300px;
-	margin-left:30%;
-	
-	
-
-}
-.coni3{
-	width:300px;
-	height:200px;
-	background-color:white;
-	background-image:url("tetss.jpg");
-	background-size:cover;
-}
-.doimg{
-	width:300px;
-	height:100px;
-	background-color:white;
-	margin-top:0px;
-	overflow:hidden;
-}
-
+ 
+ 
