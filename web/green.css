@@ -620,7 +620,7 @@ background-size:cover;
 	height:420px;
 	background-color:yellow;
 	margin-left:53%;
-	margin-top:0px;
+	margin-top:-665px;
 	
 }
 .eks{
@@ -647,6 +647,8 @@ background-size:cover;
 	background-color:gray;
 	overflow:hidden;
 	border-style: solid;
+	 background-image:url("treeorg.png");
+  background-size:cover;
 
   
   
@@ -662,6 +664,8 @@ background-size:cover;
 
   margin-top:0px;
   border-color: white;
+   background-image:url("treeorg.png");
+  background-size:cover;
 	
 }
 .cot5{
@@ -674,6 +678,8 @@ background-size:cover;
 margin-left:220px;
   margin-top:-220px;
   border-color: white;
+   background-image:url("The-Nature-Conservancy2.jpg");
+  background-size:cover;
   
 	
 }
@@ -687,19 +693,24 @@ margin-left:220px;
 margin-left:440px;
   margin-top:-220px;
   border-color: white;
+   background-image:url("tslogo-cover.jpg");
+  background-size:cover;
   
 	
 }
 .cotx{
 	width:200px;
 	height:200px;
-	background-color:red;
+	background-color:;
 	overflow:hidden;
 	border-style: solid;
   border-width: 10px;
 margin-left:0px;
   margin-top:-220px;
   border-color: white;
+  background-image:url("dddf.png");
+  background-size:cover;
+  
 	
 }
 .coty{
@@ -712,6 +723,8 @@ margin-left:0px;
 	margin-top:-220px;
 	  border-width: 10px;
 	  border-color: white;
+	  background-image:url("OTPReforistrationPartner.jpg");
+  background-size:cover;
 
   
   
@@ -727,11 +740,24 @@ margin-left:0px;
 	margin-top:-220px;
 	  border-width: 10px;
 	  border-color: white;
+	  background-image:url("wiki.jpg");
+  background-size:cover;
 
   
   
 	
 }
-
+.rock{
+	
+	width:400px;
+	height:400px;
+	background-color:yellow;
+	background-image:url("youi.jpg");
+	background-size:cover;
+	overflow:hidden;
+	margin-top:50px;
+	margin-left:5%;
+	box-shadow: 5px 5px 8px 10px #888888;
+}
 
 
