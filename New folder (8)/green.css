@@ -617,34 +617,28 @@ background-size:cover;
 .sugest{
 	
 	width:660px;
-	height:440px;
+	height:420px;
 	background-color:yellow;
-	margin-left:55%;
-	margin-top:30px;
-	
-	
+	margin-left:53%;
+	margin-top:0px;
 	
 }
-.cot1{
-	width:200px;
-	height:200px;
-	background-color:gray;
-	overflow:hidden;
-
-
-	border-style: solid;
-  border-width: 10px;
+.eks{
+	
+	width:660px;
+	height:220px;
+	background-color:white;
+	margin-top:260px;
+}	
+.dks{
+	width:660px;
+	height:220px;
+	background-color:white;
+	margin-top:-20px;
 	
 }
-.cot2{
-	width:200px;
-	height:200px;
-	background-color:red;
-	overflow:hidden;
-	border-style: solid;
-  border-width: 10px;
-  margin-left:220px;
-  margin-top:-220px;
+
+  
 	
 }
 .cot3{
@@ -653,9 +647,9 @@ background-size:cover;
 	background-color:gray;
 	overflow:hidden;
 	border-style: solid;
-  border-width: 10px;
-  margin-left:440px;
-  margin-top:-220px;
+
+  
+  
 	
 }
 .cot4{
@@ -667,6 +661,7 @@ background-size:cover;
   border-width: 10px;
 
   margin-top:0px;
+  border-color: white;
 	
 }
 .cot5{
@@ -678,6 +673,7 @@ background-size:cover;
   border-width: 10px;
 margin-left:220px;
   margin-top:-220px;
+  border-color: white;
   
 	
 }
@@ -690,8 +686,52 @@ margin-left:220px;
   border-width: 10px;
 margin-left:440px;
   margin-top:-220px;
+  border-color: white;
   
 	
 }
+.cotx{
+	width:200px;
+	height:200px;
+	background-color:red;
+	overflow:hidden;
+	border-style: solid;
+  border-width: 10px;
+margin-left:0px;
+  margin-top:-220px;
+  border-color: white;
+	
+}
+.coty{
+	width:200px;
+	height:200px;
+	background-color:gray;
+	overflow:hidden;
+	border-style: solid;
+	margin-left:220px;
+	margin-top:-220px;
+	  border-width: 10px;
+	  border-color: white;
+
+  
+  
+	
+}
+.cotz{
+	width:200px;
+	height:200px;
+	background-color:gray;
+	overflow:hidden;
+	border-style: solid;
+	margin-left:440px;
+	margin-top:-220px;
+	  border-width: 10px;
+	  border-color: white;
+
+  
+  
+	
+}
+
 
 
