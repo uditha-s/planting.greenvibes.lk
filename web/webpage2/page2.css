@@ -90,6 +90,8 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	height:325px;
 	background-color:yellow;
 	overflow:hidden;
+	background-image:url("cov1.jpg");
+	background-size:cover;
 }
 .details2{
 	width:100%;
