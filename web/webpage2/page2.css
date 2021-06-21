@@ -85,3 +85,15 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 }
+.details{
+	width:100%;
+	height:325px;
+	background-color:yellow;
+	overflow:hidden;
+}
+.details2{
+	width:100%;
+	height:325px;
+	background-color:green;
+	overflow:hidden;
+}
