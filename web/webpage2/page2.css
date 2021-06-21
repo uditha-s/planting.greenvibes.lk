@@ -96,4 +96,6 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	height:325px;
 	background-color:green;
 	overflow:hidden;
+	background-image:url("cov2.jpg");
+	background-size:cover;
 }
