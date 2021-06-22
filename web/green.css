@@ -192,6 +192,8 @@ background-image:url("cover2.png");
 	 background-size:cover;
 	 font-size:40px;
 	 text-align:center;
+	 text-shadow: 2px 2px 4px #d9d9d9;
+	 
 	 
 	
 	 
@@ -207,6 +209,8 @@ background-image:url("cover2.png");
 	 text-align:center;
 	margin-left:50%;
 	margin-top:-300px;
+	text-shadow: 2px 2px 4px #d9d9d9;
+	
 }
 
 	
