@@ -279,6 +279,8 @@ background-image:url("cover2.png");
 		margin-top:-300px;
 		margin-left:500px;
 		text-align:center;
+		padding-left:5px;
+		padding-right:5px;
 }
 .op{
 	width:401px;
@@ -289,6 +291,10 @@ background-image:url("cover2.png");
 		border-radius: 10px;
 		margin-left:1060px;
 		margin-top:-450px;
+		text-align:center;
+		padding-left:5px;
+		padding-right:5px;
+		list-style-type: none;
 }
 .forest{
 width:450px;
