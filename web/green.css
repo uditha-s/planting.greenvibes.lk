@@ -814,8 +814,24 @@ margin-left:0px;
 .joinbutton
 {
 	margin-top:75%;
-	margin-left:40%;
-	
-	
+	margin-left:40%;	
+}
+.forestinclude{
+	width:454px;
+	height:454px;
+	background-color:yellow;
+	overflow:hidden;
+	margin-left:550px;
+	margin-top:-450px;
+	 border-radius: 10px;
+}
+.forestinclude2{
+	width:454px;
+	height:454px;
+	background-color:yellow;
+	overflow:hidden;
+	margin-left:68%;
+	margin-top:-450px;
+	 border-radius: 10px;
 }
 
