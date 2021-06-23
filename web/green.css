@@ -108,16 +108,16 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	  background-size:cover;
 }
 .mid{
-	width:600px;
+	width:800px;
 	height:100px;
-	background-color:black;opacity:0.4;;
+	
 	font-family:"Audiowide", sans-serif;
 	color:white;
 	text-align:center;
 	padding-top:50px;
-	font-size:50px;
-	margin-left:28%;
-	margin-top:400px;
+	font-size:60px;
+	margin-left:25%;
+	margin-top:250px;
 	border-bottom:10px;
 	border-color:red;
 	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
