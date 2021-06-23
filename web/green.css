@@ -157,6 +157,7 @@ background-image:url("cover2.png");
 	border:1px solid green;
 	border-radius: 5px 50px;
 	 text-shadow: 1px 1px 4px #99ff99;
+	 cursor: pointer;
 	
 }
 .frame{
@@ -557,6 +558,7 @@ background-size:cover;
 	background-color:white;
 	margin-top:0px;
 	overflow:hidden;
+	cursor: pointer;
 }
 .card2{
 	width:300px;
@@ -582,6 +584,7 @@ background-size:cover;
 	background-color:white;
 	margin-top:0px;
 	overflow:hidden;
+	cursor: pointer;
 }
 .card2{
 	width:300px;
@@ -607,6 +610,7 @@ background-size:cover;
 	background-color:white;
 	margin-top:0px;
 	overflow:hidden;
+	cursor: pointer;
 }
 .card3{
 	width:300px;
@@ -827,6 +831,7 @@ margin-left:0px;
 	margin-left:550px;
 	margin-top:-450px;
 	 border-radius: 10px;
+	
 }
 .forestinclude2{
 	width:454px;
@@ -834,7 +839,7 @@ margin-left:0px;
 	background-color:yellow;
 	overflow:hidden;
 	margin-left:68%;
-	margin-top:-450px;
+	margin-top:-454px;
 	 border-radius: 10px;
 }
 .tex{
