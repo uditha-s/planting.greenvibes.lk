@@ -311,6 +311,9 @@ margin-top:25px;
 background-image:url("forest1.jpg");
 background-size:cover;
 border-radius: 10px; 
+text-align:center;
+font-size:50px;
+
 	}
 	
 .line{
@@ -834,4 +837,6 @@ margin-left:0px;
 	margin-top:-450px;
 	 border-radius: 10px;
 }
-
+.tex{
+	margin-top:45%;
+}
