@@ -851,9 +851,25 @@ margin-left:0px;
 	text-align:center;
 	font-size:30px;
 	padding-top:15px;
+	padding-left:3px;
+	padding-right:3px;
 }
 .headings2{
 	text-align:center;
 	font-size:30px;
 	padding-top:15px;
+}
+.text3{
+	text-align:center;
+	font-size:18px;
+	margin-top:50px;
+	padding-left:5px;
+	padding-right:5px;
+}
+.text4{
+	line-height:25px;
+	font-size:18px;
+	margin-top:50px;
+	padding-left:5px;
+	padding-right:5px;
 }
