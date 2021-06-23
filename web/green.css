@@ -314,6 +314,7 @@ background-size:cover;
 border-radius: 10px; 
 text-align:center;
 font-size:50px;
+box-shadow: 10px 10px 5px #aaaaaa;
 
 	}
 	
@@ -325,6 +326,7 @@ font-size:50px;
 	margin-left:65%;
 	margin-top:10%
 	background-color:black;
+	
 }
 .niya{
 width:450px;
@@ -337,6 +339,7 @@ margin-top:25px;
 background-image:url("w3.jpg");
 background-size:cover;
 border-radius: 10px; 
+box-shadow: 10px 10px 5px #aaaaaa;
 }
 .land{
 width:450px;
@@ -348,7 +351,9 @@ margin-left:25px;
 margin-top:25px;
 background-image:url("ida.jpg");
 background-size:cover;
-border-radius: 10px;} 
+border-radius: 10px;
+box-shadow: 10px 10px 5px #aaaaaa;
+} 
 
 .wf{
 	
@@ -370,6 +375,7 @@ margin-top:25px;
 background-image:url("bio.jpg");
 background-size:cover;
 border-radius: 10px;
+box-shadow: 10px 10px 5px #aaaaaa;
 }
 .wg{
 	
