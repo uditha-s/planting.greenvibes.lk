@@ -816,7 +816,7 @@ margin-left:0px;
 }
 .joinbutton
 {
-	margin-top:75%;
+	margin-top:70%;
 	margin-left:40%;	
 }
 .forestinclude{
@@ -841,4 +841,14 @@ margin-left:0px;
 	margin-top:45%;
 	font-size:50px;
 	text-align:center;
+}
+.headings{
+	text-align:center;
+	font-size:30px;
+	padding-top:15px;
+}
+.headings2{
+	text-align:center;
+	font-size:30px;
+	padding-top:15px;
 }
