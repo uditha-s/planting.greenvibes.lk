@@ -147,10 +147,10 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 
 }
 .bt{
-	width:300px;
+	width:200px;
 	height:50px;
 	background-color:white;
-	font-size:30px;
+	font-size:20px;
 background-image:url("cover2.png");
 
 	font-family:Arial Rounded MT Bold;
@@ -158,18 +158,22 @@ background-image:url("cover2.png");
 	border-radius: 5px 50px;
 	 text-shadow: 1px 1px 4px #99ff99;
 	 cursor: pointer;
+	 
 	
 }
 .frame{
 	width:300px;
-	height:200px;
+	height:290px;
 	overflow:hidden;
 	background-color:yellow;
-	padding:40px;
+	
 	background-image:url("cover.png");
 	border:1px solid black;
 	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	border-radius: 10px;
+	border-radius: 0px;
+	margin-top:0px;
+	margin-left:20px;
+	border-radius:8px;
 }
 .wh{
 	width:100%;
@@ -253,7 +257,7 @@ background-image:url("cover2.png");
 	width:100%;
 	height:500px;
 	overflow:hidden;
-	background-color:#99ff99;
+	background-color:#ccffcc;
 	margin-top:20px;
 }
 .font{
@@ -360,7 +364,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	width:100%;
 	height:500px;
 	overflow:hidden;
-	background-color:#99ff99;
+	background-color:#ccffcc;
 	margin-top:20px;
 	
 }
@@ -388,8 +392,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
  .asd{
 	 width:500px;
 	 height:100px;
-	 
-	 
+	 font-family:Calibri ;
 	 margin-left:65%;
 	 margin-top:-240px;
 	
@@ -399,10 +402,12 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	 height:50px;
 	 background-color:#212820;
 	 overflow:hidden;
-	 color:gray;
+	 color:white;
 	 text-align:center;
-	 font-size:40px;
+	 font-size:30px;
 	 font-family: Agency FB;
+	  font-family:Calibri;
+	  margin-top:9px;
 	 
 	
  }
@@ -832,7 +837,7 @@ margin-left:0px;
 .forestinclude{
 	width:454px;
 	height:454px;
-	background-color:yellow;
+	background-color:	#e6ffe6;
 	overflow:hidden;
 	margin-left:550px;
 	margin-top:-450px;
@@ -842,16 +847,18 @@ margin-left:0px;
 .forestinclude2{
 	width:454px;
 	height:454px;
-	background-color:yellow;
+	background-color:	#e6ffe6;
 	overflow:hidden;
 	margin-left:68%;
 	margin-top:-454px;
 	 border-radius: 10px;
 }
 .tex{
-	margin-top:45%;
+	margin-top:35%;
 	font-size:50px;
 	text-align:center;
+	text-shadow: 2px 2px 4px white;
+	
 }
 .headings{
 	text-align:center;
@@ -878,4 +885,17 @@ margin-left:0px;
 	margin-top:50px;
 	padding-left:5px;
 	padding-right:5px;
+}
+.text5{
+	font-family:Calibri;
+	
+}
+.butpossition{
+	margin-top:50px;
+	margin-left:45px;
+}
+.footertext{
+	color:white;
+	margin-left:48%;
+	font-size:14px;
 }
