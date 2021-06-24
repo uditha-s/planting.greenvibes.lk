@@ -200,6 +200,7 @@ background-image:url("cover2.png");
 	 text-shadow: 2px 2px 4px #d9d9d9;
 	 
 	 
+	 
 	
 	 
 	
@@ -811,6 +812,7 @@ margin-left:0px;
 		padding-top:55px;
 		padding-left:5px;
 		padding-right:5px;
+		font-family:Calibri;
 		
 	
 }
@@ -827,6 +829,7 @@ margin-left:0px;
 		padding-top:75px;
 		padding-left:5px;
 		padding-right:5px;
+		font-family:Calibri;
 	
 }
 .joinbutton
@@ -920,6 +923,7 @@ margin-left:0px;
 	 color: #f1f1f1;
 	margin-top:115px;
 	padding:2px;
+	text-align:center;
 }
 .downtext2{
 	width:100%;
@@ -932,6 +936,6 @@ margin-left:0px;
 	text-align:center;
 }
 a{
-	color: hotpink;
+	color: #00ff00;
 	text-decoration:none;
 }
