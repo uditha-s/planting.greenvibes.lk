@@ -353,13 +353,13 @@ width:450px;
 	height:450px;
 	overflow:hidden;
 	background-color:;
-	border:2px solid white;
+	
 margin-left:25px;
 margin-top:25px;
-background-image:url("../images/ida.jpg");
+background-image:url("../image/ida.jpg");
 background-size:cover;
 border-radius: 10px;
-box-shadow: 10px 10px 5px #aaaaaa;
+
 } 
 
 .wf{
@@ -376,13 +376,13 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	height:450px;
 	overflow:hidden;
 	background-color:;
-	border:2px solid white;
+	
 margin-left:25px;
 margin-top:25px;
-background-image:url("../images/bio.jpg");
+background-image:url("../imags/bio.jpg");
 background-size:cover;
 border-radius: 10px;
-box-shadow: 10px 10px 5px #aaaaaa;
+
 }
 .wg{
 	
@@ -844,8 +844,8 @@ margin-left:0px;
 	height:454px;
 	background-color:	#e6ffe6;
 	overflow:hidden;
-	margin-left:550px;
-	margin-top:-450px;
+	margin-left:250px;
+	margin-top:-460px;
 	 border-radius: 10px;
 	
 }
@@ -854,8 +854,8 @@ margin-left:0px;
 	height:454px;
 	background-color:	#e6ffe6;
 	overflow:hidden;
-	margin-left:1025px;
-	margin-top:-454px;
+	margin-left:850px;
+	margin-top:-460px;
 	 border-radius: 10px;
 }
 .tex{
@@ -948,3 +948,49 @@ a{
 	width:100px;
 	height:auto;
 }
+.im1{
+	width:400px;
+	height:400px;
+	background-color:white;
+	margin-left:550px;
+	background-image:url("../images/forest1.jpg");
+	background-size:cover;
+}
+.txn{
+	margin-left:450px;
+	font-size:50px;
+}
+.txn1{
+	margin-left:25px;
+	font-size:50px;
+}
+.txn2{
+	margin-left:465px;
+	font-size:50px;
+}
+.txn3{
+	margin-left:340px;
+	font-size:50px;
+}
+.im11{
+	width:400px;
+	height:400px;
+	background-color:white;
+margin-left:550px;
+background-image:url("../images/W3.jpg");
+background-size:cover;}
+.im12{
+	width:400px;
+	height:400px;
+	background-color:white;
+margin-left:550px;
+background-image:url("../images/ida.jpg");
+	background-size:cover;
+}
+.im13{
+	width:400px;
+	height:400px;
+	background-color:white;
+margin-left:550px;
+background-image:url("../images/bio.jpg");
+	background-size:cover;}
