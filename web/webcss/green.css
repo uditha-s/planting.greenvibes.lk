@@ -1,5 +1,6 @@
 body {
 	background-color:#E5F9E1 ;
+	
 }
 .hed{
  width:100%;
@@ -29,7 +30,7 @@ margin-top:-70px;
 	overflow:hidden;
 margin-left:50px;
 margin-top:-40px;
- background-image: url("facebook-png-icon-follow-us-facebook-1.png");
+ background-image: url("../images/facebook-png-icon-follow-us-facebook-1.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	  border:10px;
@@ -39,7 +40,7 @@ margin-top:-40px;
 	height:40px;
 	background-color:;
 	overflow:hidden;
-	 background-image: url("home-logo-md.png");
+	 background-image: url("../images/images/home-logo-md.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	
@@ -51,7 +52,7 @@ margin-top:-40px;
 	overflow:hidden;
 margin-left:100px;
 margin-top:-40px;
-background-image: url("WhatsApp_Logo_1.png");
+background-image: url("../images/WhatsApp_Logo_1.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	
@@ -63,7 +64,7 @@ background-image: url("WhatsApp_Logo_1.png");
 	overflow:hidden;
 margin-left:150px;
 margin-top:-40px;
-background-image: url("instagram_PNG9.png");
+background-image: url("../images/instagram_PNG9.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	  
@@ -75,7 +76,7 @@ background-image: url("instagram_PNG9.png");
 	overflow:hidden;
 margin-left:200px;
 margin-top:-40px;
-background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
+background-image: url("../images/1f9a438eaaf4f20885ecd763723479e7.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -103,26 +104,26 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	height:640px;
 
 	overflow:hidden;
-	background-image: url("lake.jpg");
+	background-image: url("../images/lake.jpg");
 	background-repeat:no-repeat;
 	  background-size:cover;
 }
 .mid{
-	width:800px;
+	width:950px;
 	height:100px;
 	
 	font-family:"Audiowide", sans-serif;
 	color:white;
 	text-align:center;
 	padding-top:50px;
-	font-size:60px;
-	margin-left:25%;
+	font-size:70px;
+	margin-left:20%;
 	margin-top:250px;
 	border-bottom:10px;
 	border-color:red;
-	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
+	text-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
 	border-radius: 12px;
-	
+	text-shadow: 2px 2px 4px white;
 }
 .new{
 	height:300px;
@@ -151,7 +152,7 @@ background-image: url("1f9a438eaaf4f20885ecd763723479e7.png");
 	height:50px;
 	background-color:white;
 	font-size:20px;
-background-image:url("cover2.png");
+background-image:url("../images/cover2.png");
 
 	font-family:Arial Rounded MT Bold;
 	border:1px solid green;
@@ -167,7 +168,7 @@ background-image:url("cover2.png");
 	overflow:hidden;
 	background-color:yellow;
 	
-	background-image:url("cover.png");
+	background-image:url("../images/cover.png");
 	border:1px solid black;
 	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	border-radius: 0px;
@@ -186,18 +187,19 @@ background-image:url("cover2.png");
 	width:100%;
 	height:300px;
 	overflow:hidden;
-	background-color:#ccffcc;
+	background-color:white;
 	margin-top:20px;
 }
 .why{
 	width:300px;
 	height:300px;
-	background-image:url("plant_a_tree1.jpg") ;
+	background-image:url("../images/plant_a_tree1.jpg") ;
 	background-repeat:no-repeat;
 	 background-size:cover;
 	 font-size:40px;
 	 text-align:center;
 	 text-shadow: 2px 2px 4px #d9d9d9;
+	 margin-left:10px;
 	 
 	 
 	 
@@ -208,12 +210,12 @@ background-image:url("cover2.png");
 .what{
 	width:300px;
 	height:300px;
-	background-image:url("lee1.jpg") ;
+	background-image:url("../images/lee1.jpg") ;
 	background-repeat:no-repeat;
 	 background-size:cover;
 	 font-size:50px;
 	 text-align:center;
-	margin-left:50%;
+	margin-left:800px;
 	margin-top:-300px;
 	text-shadow: 2px 2px 4px #d9d9d9;
 	
@@ -314,7 +316,7 @@ width:450px;
 	border:2px solid white;
 margin-left:25px;
 margin-top:25px;
-background-image:url("forest1.jpg");
+background-image:url("../images/forest1.jpg");
 background-size:cover;
 border-radius: 10px; 
 text-align:center;
@@ -341,7 +343,7 @@ width:450px;
 	border:2px solid white;
 margin-left:25px;
 margin-top:25px;
-background-image:url("w3.jpg");
+background-image:url("../images/w3.jpg");
 background-size:cover;
 border-radius: 10px; 
 box-shadow: 10px 10px 5px #aaaaaa;
@@ -354,7 +356,7 @@ width:450px;
 	border:2px solid white;
 margin-left:25px;
 margin-top:25px;
-background-image:url("ida.jpg");
+background-image:url("../images/ida.jpg");
 background-size:cover;
 border-radius: 10px;
 box-shadow: 10px 10px 5px #aaaaaa;
@@ -377,7 +379,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	border:2px solid white;
 margin-left:25px;
 margin-top:25px;
-background-image:url("bio.jpg");
+background-image:url("../images/bio.jpg");
 background-size:cover;
 border-radius: 10px;
 box-shadow: 10px 10px 5px #aaaaaa;
@@ -419,7 +421,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	 overflow:hidden;
 	 margin-left:450px;
 	 margin-top:-50px;
-	 background-image:url("22.png");
+	 background-image:url("../images/22.png");
 	 background-size:cover;
 	
 }
@@ -430,7 +432,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	 overflow:hidden;
 	 margin-left:400px;
 	 margin-top:-50px;
-	 background-image:url("44.png");
+	 background-image:url("../images/44.png");
 	 background-size:cover;
 	 
 }
@@ -441,7 +443,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	 overflow:hidden;
 	 margin-left:350px;
 	 margin-top:-50px;
-	 background-image:url("33.png");
+	 background-image:url("../images/33.png");
 	 background-size:cover;
 }
 .kd{
@@ -451,7 +453,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	 overflow:hidden;
 	 margin-left:300px;
 	 margin-top:-50px;
-	 background-image:url("11.png");
+	 background-image:url("../images/11.png");
 	 background-size:cover;
 }
  
@@ -465,7 +467,7 @@ box-shadow: 10px 10px 5px #aaaaaa;
 	height:200px;
 	overflow:hidden;
 	background-color:black;
-	background-image:url("fott.png");
+	background-image:url("../images/fott.png");
 background-size:cover;
 }
 
@@ -533,7 +535,7 @@ background-size:cover;
 	background-color:;
 	margin-top:-90px;
 	margin-left:10%;
-	background-image:url("name.png");
+	background-image:url("../images/name.png");
 	background-size:cover;
 }
 .picc{
@@ -550,7 +552,7 @@ background-size:cover;
 	background-color:yellow;
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin-top:-300px;
-	margin-left:79%;
+	margin-left:1200px;
 	font-size:25px;
 	text-align:center;
 	
@@ -561,7 +563,7 @@ background-size:cover;
 	width:300px;
 	height:200px;
 	background-color:white;
-	background-image:url("kub.jpg");
+	background-image:url("../images/kub.jpg");
 	background-size:cover;
 }
 .doimg{
@@ -578,7 +580,7 @@ background-size:cover;
 	background-color:yellow;
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin-top:-300px;
-	margin-left:55%;
+	margin-left:0px;
 	
 	
 
@@ -587,7 +589,7 @@ background-size:cover;
 	width:300px;
 	height:200px;
 	background-color:white;
-	background-image:url("kub.jpg");
+	background-image:url("../images/kub.jpg");
 	background-size:cover;
 }
 .doimg{
@@ -604,7 +606,7 @@ background-size:cover;
 	background-color:yellow;
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin-top:-300px;
-	margin-left:55%;
+	margin-left:830px;
 	font-size:25px;
 	text-align:center;
 	
@@ -613,7 +615,7 @@ background-size:cover;
 	width:300px;
 	height:200px;
 	background-color:white;
-	background-image:url("sad.jpg");
+	background-image:url("../images/sad.jpg");
 	background-size:cover;
 }
 .doimg{
@@ -630,7 +632,7 @@ background-size:cover;
 	background-color:yellow;
 	box-shadow: 10px 10px 5px #aaaaaa;
 	margin-top:-300px;
-	margin-left:30%;
+	margin-left:450px;
 	font-size:25px;
 	text-align:center;
 	
@@ -642,7 +644,7 @@ background-size:cover;
 	width:300px;
 	height:200px;
 	background-color:white;
-	background-image:url("tetss.jpg");
+	background-image:url("../images/tetss.jpg");
 	background-size:cover;
 }
 .doimg{
@@ -687,7 +689,7 @@ background-size:cover;
 	background-color:gray;
 	overflow:hidden;
 	border-style: solid;
-	 background-image:url("treeorg.png");
+	 background-image:url("../images/treeorg.png");
   background-size:cover;
 
   
@@ -704,7 +706,7 @@ background-size:cover;
 
   margin-top:0px;
   border-color: white;
-   background-image:url("treeorg.png");
+   background-image:url("../images/treeorg.png");
   background-size:cover;
 	
 }
@@ -718,7 +720,7 @@ background-size:cover;
 margin-left:220px;
   margin-top:-220px;
   border-color: white;
-   background-image:url("The-Nature-Conservancy2.jpg");
+   background-image:url("../images/The-Nature-Conservancy2.jpg");
   background-size:cover;
   
 	
@@ -733,7 +735,7 @@ margin-left:220px;
 margin-left:440px;
   margin-top:-220px;
   border-color: white;
-   background-image:url("tslogo-cover.jpg");
+   background-image:url("../images/tslogo-cover.jpg");
   background-size:cover;
   
 	
@@ -748,7 +750,7 @@ margin-left:440px;
 margin-left:0px;
   margin-top:-220px;
   border-color: white;
-  background-image:url("dddf.png");
+  background-image:url("../images/dddf.png");
   background-size:cover;
   
 	
@@ -763,7 +765,7 @@ margin-left:0px;
 	margin-top:-220px;
 	  border-width: 10px;
 	  border-color: white;
-	  background-image:url("OTPReforistrationPartner.jpg");
+	  background-image:url("../images/OTPReforistrationPartner.jpg");
   background-size:cover;
 
   
@@ -780,7 +782,7 @@ margin-left:0px;
 	margin-top:-220px;
 	  border-width: 10px;
 	  border-color: white;
-	  background-image:url("wiki.jpg");
+	  background-image:url("../images/wiki.jpg");
   background-size:cover;
 
   
@@ -792,7 +794,7 @@ margin-left:0px;
 	width:400px;
 	height:400px;
 	background-color:yellow;
-	background-image:url("youi.jpg");
+	background-image:url("../images/youi.jpg");
 	background-size:cover;
 	overflow:hidden;
 	margin-top:50px;
@@ -804,7 +806,7 @@ margin-left:0px;
 	width:330px;
 	height:220px;
 	margin-left:330px;
-	margin-top:-220px;
+	margin-top:-250px;
 	border:2px solid white;
 		border-radius: 10px;
 		font-size:30px;
@@ -852,7 +854,7 @@ margin-left:0px;
 	height:454px;
 	background-color:	#e6ffe6;
 	overflow:hidden;
-	margin-left:68%;
+	margin-left:1025px;
 	margin-top:-454px;
 	 border-radius: 10px;
 }
@@ -906,7 +908,7 @@ margin-left:0px;
 	height:105px;
 	width:300px;
 	background-color:;
-	background-image:url("logoplanting.png");
+	background-image:url("../images/logoplanting.png");
 	background-size:cover;
 	padding:-1px;
 }
@@ -941,4 +943,8 @@ a{
 }
 .text10{
 	text-align:left;
+}
+.all{
+	width:100px;
+	height:auto;
 }
