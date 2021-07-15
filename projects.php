@@ -1,8 +1,8 @@
 <style type=text/css> .header {
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/planting03.jpeg);}
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/planting05.jpg);}
 </style>
 
-<?php $title = 'Services - '; ?>
+<?php $title = 'Projects - '; ?>
 <?php require_once('inc/header.php'); ?>
   <div class="text-box">
         <h1>Our Services</h1>
