@@ -7,7 +7,7 @@
   <div class="text-box">
         <h1>One Plant For Future</h1>
         <p>We are all part of the planet’s ecosystem and we have caused severe damage to it through deforestation, 
-loss of natural habitats and land degradation. Promoting a sustainable use of our ecosystems and preserving biodiversity is not a cause. It is the key to our own survival.</p>
+loss of natural habitats and land degradation.<br> Promoting a sustainable use of our ecosystems and preserving biodiversity is not a cause. It is the key to our own survival.</p>
         <a href="#content" class="visit-btn">Visit us</a>
         </div>
     </section>
