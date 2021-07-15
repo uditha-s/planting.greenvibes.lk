@@ -30,7 +30,7 @@ margin-top:-70px;
 	overflow:hidden;
 margin-left:50px;
 margin-top:-40px;
- background-image: url("../images/facebook-png-icon-follow-us-facebook-1.png");
+ background-image: url("../image/s/facebook-png-icon-follow-us-facebook-1.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	  border:10px;
@@ -40,7 +40,7 @@ margin-top:-40px;
 	height:40px;
 	background-color:;
 	overflow:hidden;
-	 background-image: url("../images/images/home-logo-md.png");
+	 background-image: url("../image/s/images/home-logo-md.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	
@@ -52,7 +52,7 @@ margin-top:-40px;
 	overflow:hidden;
 margin-left:100px;
 margin-top:-40px;
-background-image: url("../images/WhatsApp_Logo_1.png");
+background-image: url("../image/s/WhatsApp_Logo_1.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	
@@ -64,7 +64,7 @@ background-image: url("../images/WhatsApp_Logo_1.png");
 	overflow:hidden;
 margin-left:150px;
 margin-top:-40px;
-background-image: url("../images/instagram_PNG9.png");
+background-image: url("../image/s/instagram_PNG9.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 	  
@@ -76,7 +76,7 @@ background-image: url("../images/instagram_PNG9.png");
 	overflow:hidden;
 margin-left:200px;
 margin-top:-40px;
-background-image: url("../images/1f9a438eaaf4f20885ecd763723479e7.png");
+background-image: url("../image/s/1f9a438eaaf4f20885ecd763723479e7.png");
 	 background-repeat:no-repeat;
 	  background-size:cover;
 }
@@ -164,17 +164,17 @@ background-image:url("../images/cover2.png");
 }
 .frame{
 	width:300px;
-	height:290px;
+	height:287px;
 	overflow:hidden;
-	background-color:yellow;
+	background-color:;
 	
 	background-image:url("../images/cover.png");
-	border:1px solid black;
-	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border:1px solid white;
+	 box-shadow: 10px 10px 5px #aaaaaa;
 	border-radius: 0px;
 	margin-top:0px;
 	margin-left:20px;
-	border-radius:8px;
+	border-radius:;
 }
 .wh{
 	width:100%;
@@ -855,7 +855,7 @@ margin-left:0px;
 	background-color:	#e6ffe6;
 	overflow:hidden;
 	margin-left:850px;
-	margin-top:-460px;
+	margin-top:-450px;
 	 border-radius: 10px;
 }
 .tex{
@@ -957,11 +957,11 @@ a{
 	background-size:cover;
 }
 .txn{
-	margin-left:450px;
+	margin-left:475px;
 	font-size:50px;
 }
 .txn1{
-	margin-left:25px;
+	margin-left:425px;
 	font-size:50px;
 }
 .txn2{
@@ -969,7 +969,7 @@ a{
 	font-size:50px;
 }
 .txn3{
-	margin-left:340px;
+	margin-left:435px;
 	font-size:50px;
 }
 .im11{
@@ -994,3 +994,21 @@ background-image:url("../images/ida.jpg");
 margin-left:550px;
 background-image:url("../images/bio.jpg");
 	background-size:cover;}
+	.txn4{
+	margin-left:320px;
+	font-size:50px;
+}
+.forestinclude1{
+	width:454px;
+	height:454px;
+	background-color:	#e6ffe6;
+	overflow:hidden;
+	margin-left:250px;
+	margin-top:-480px;
+	 border-radius: 10px;
+	
+}
+.he{
+	color:black;
+	
+}
