@@ -345,3 +345,40 @@ a{
 	font-size:20px;
 	margin-left:30%;
 }
+.buttonx{
+	text-decoration:bold;
+	float:right;
+	padding:10px;
+	color:gray;
+	border:none;
+	background-color:white;
+	margin-left:0px;
+margin-top:20px;
+margin-right:20px;
+}
+.cimg{
+	width:100%;
+	height:640px;
+
+	overflow:hidden;
+	background-image: url("lake.jpg");
+	background-repeat:no-repeat;
+	  background-size:cover;
+}
+.mid{
+	width:950px;
+	height:100px;
+	
+	font-family:"Audiowide", sans-serif;
+	color:white;
+	text-align:center;
+	padding-top:50px;
+	font-size:70px;
+	margin-left:20%;
+	margin-top:250px;
+	border-bottom:10px;
+	border-color:red;
+	text-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
+	border-radius: 12px;
+	text-shadow: 2px 2px 4px white;
+}
