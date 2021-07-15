@@ -6,7 +6,7 @@
     $connection = mysqli_connect($server, $user, $pass, $dbname);
     $table = "pblog";
  ?> -->
- <?php 
+ <?php
  	$server = "localhost";
 	$user = "root";
     $pass = "";
