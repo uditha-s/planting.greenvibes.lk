@@ -13,7 +13,7 @@
 <body>
 
 <section class="content">
-<h2>About Greenvibes planting</h2>
+<h2>About Greenvibes Planting</h2>
 <p>What is greenvibes planting and what about it? Greenvibes planting relates to how to conserve environment and improved health of the environment. 
 Here is an article on how to go green, and discussing the importance of eco-friendly products, 
 including supporting practices like smart applications of green energy products and the strategies for green energy maintenance, as well as the advantages.
