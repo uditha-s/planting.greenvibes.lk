@@ -1,5 +1,5 @@
 .navigation {
-	  background-color: #50C878;
+	  background-color: #206662;
     width: 100%;
     position: fixed;
     background-position: center;
@@ -133,7 +133,7 @@ div.latest_column{
 
 div.latest_column h5 {
 	padding: 2px 5px;
-	background-color: #50C878;
+	background-color: #206662;
 	margin: 10px 0 10px 20px;
 	text-align: center;
 	font-size: 16px;

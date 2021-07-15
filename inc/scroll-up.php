@@ -7,7 +7,7 @@
 <style>
 	.scroll-top {
 	border-radius: 5px;
-	background-color: green;
+	background-color: #2f4f4f;
     width: 40px;
     height: 40px;
     position: fixed;

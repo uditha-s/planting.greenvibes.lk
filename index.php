@@ -1,5 +1,5 @@
 <style type=text/css> .header {
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/home.jpg);}
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(img/lake.jpg);}
 </style>
 
 <?php $title = 'Home - '; ?>
