@@ -25,7 +25,7 @@ Let’s take a moment to discuss 4 extremely advantageous attributes found in re
 <br>
 <br>
 
-<p>Greenvibes planting energy in the field of solar power has become extremely promising. Photovoltaic cell manufacturers around the world are continuing to outpace themselves, 
+<br><p>Greenvibes planting energy in the field of solar power has become extremely promising. Photovoltaic cell manufacturers around the world are continuing to outpace themselves, 
 and each other. When photovoltaic cells improve, their yield in power increases. 
 As older systems begin to be updated with state of the art cells, green energy from solar power increases.</p>
 
