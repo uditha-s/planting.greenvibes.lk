@@ -19,9 +19,9 @@
 	if ( $result_set ){
 		while ( $result = mysqli_fetch_assoc($result_set)){
 			$blog_id = $result['blog_id'];
-			$blog_title = $result['blog_short_title'];
+			$blog_title = substr($result['blog_short_title'],0,20);
 			$blog_date = $result['blog_date'];
-			$blog_text =  substr(strip_tags($result['blog_text']), 0, 100);
+			$blog_text =  stripcslashes(substr(strip_tags($result['blog_text']), 0, 100));
 			$blog_img = $result['blog_img'];
 
 			//preparing the html
