@@ -216,21 +216,21 @@ background-size:cover;
   background-color:#212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 8px #99ff99;
+  
 }
 
 .button2 {
   background-color:#212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 4px #99ff99;
+  
 }
 
 .button3 {
   background-color: #212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 4px #99ff99;
+  
 }
 
 .button4 {
@@ -381,4 +381,7 @@ margin-right:20px;
 	text-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 10px 20px 0 rgba(0,0,0,0.19);
 	border-radius: 12px;
 	text-shadow: 2px 2px 4px white;
+}
+a{
+	color:green;
 }
