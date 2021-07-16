@@ -495,21 +495,21 @@ background-size:cover;
   background-color:#212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 8px #99ff99;
+  text-shadow: ;
 }
 
 .button2 {
   background-color:#212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 4px #99ff99;
+  text-shadow: ;
 }
 
 .button3 {
   background-color: #212820; 
   color: white; 
   border: 2px solid #e0e0d1;
-  text-shadow: 2px 2px 4px #99ff99;
+  text-shadow: ;
 }
 
 .button4 {
@@ -940,7 +940,7 @@ margin-left:0px;
 	text-align:center;
 }
 a{
-	color: #00ff00;
+	color: gray;
 	text-decoration:none;
 }
 .text10{
@@ -1024,4 +1024,34 @@ background-image:url("../images/bio.jpg");
 	margin-left:0px;
 margin-top:20px;
 margin-right:20px;
+}
+.your{
+	width:100%;
+	height:400px;
+	background-color:white;
+}
+.your1{
+	width:600px;
+	height:400px;
+	background-color:gray;
+background-image:url("../images/geeen.jpg");
+background-size:cover;
+	
+}
+.your2{
+	width:600px;
+	height:400px;
+	font-size:25px;
+	text-align:center;
+
+background-size:cover;
+float:right;
+margin-top:-400px;
+margin-right:100px;
+font-family:Calibri;
+
+	
+}
+.dox{
+	color:#33ff33;
 }
