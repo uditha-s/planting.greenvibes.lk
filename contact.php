@@ -6,7 +6,7 @@
 <?php require_once('inc/header.php'); ?>
   <div class="text-box">
         <h1>Let's Chat</h1>
-        <p>If you have a any idea for increase forest population.just tell us !.</p>
+        <p>If you have a any idea for increase forest population.just tell us !</p>
         <a href="" class="visit-btn">Visit us</a>
         </div>
     </section>
