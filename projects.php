@@ -12,7 +12,7 @@
     </section>
 <body>
 
-<section class="content"><h2>Our Services</h2>
+<section class="content"><h2>we wish to do</h2>
 <p>Have you hit a dead end with brainstorming marketing ideas for your technology company? 
 Are your current technology product marketing strategies falling short of your goals? Do you need some help improving your technology marketing plan?<br><br>
 
